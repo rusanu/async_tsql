@@ -1,7 +1,5 @@
-async_tsql
-==========
-
 Asynchronous T-SQL procedure execution
+==========
 
 This is the code for the blog articles at
 
